@@ -1,0 +1,10 @@
+#div_id_Gender{
+    display:inline-flex;
+}
+
+#div_id_Gender > li{
+    padding-left : 10px;
+}
+#two{
+    color: blue;
+}
