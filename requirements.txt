@@ -9,4 +9,4 @@ sqlparse==0.4.1
 \
 
 
-sandeep is good and bad
+sandeep is good and bad and bad
